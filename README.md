@@ -1,3 +1,3 @@
 # CoffeeDB
 
-## A horizontal scroll view 
+## A horizontal scroll view with items in lists
